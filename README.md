@@ -6,7 +6,7 @@
 - **Alumno:** Jonathan Alexander Alvarado Alcocer 
 - **Matrícula:** 2233040654
 - **Profesor:** M. en C. Gabriel Hurtado Avilés
-- **Fecha:** 10 de octubre de 2026
+- **Fecha:** 8 de octubre de 2026
 
 ## 1. ¿Qué son los métodos numéricos?
 
