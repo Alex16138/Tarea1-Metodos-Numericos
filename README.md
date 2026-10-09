@@ -1,5 +1,4 @@
 # Tarea 1: Introducción a los Métodos Numéricos y Entorno de Trabajo
-
 * **Unidad de Enseñanza-Aprendizaje:** Métodos Numéricos en Ingeniería (Clave 1151039)
 * **Trimestre:** 26-O
 * **Licenciatura:** Ingeneria Mecanica
