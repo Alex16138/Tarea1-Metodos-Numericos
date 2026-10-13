@@ -76,6 +76,9 @@ Ahí están los comandos de cada programa y la tabla que debe salir.
 | 3 | 6 | 1.648697916666667 | 0.00141649 % |
 | 6 | 9 | 1.648721265035962 | 3.43549e-07 % |
 | 17 | 16 | 1.648721270700128 | 2.69354e-14 % |
+
+
+
 ##Pregunta 1: ¿Cuántos términos hacen falta con 3, 6 y 17 cifras?
  Para 3 cifras significativas se requirieron 6 términos. Para 6 cifras hicieron falta 9 términos. Finalmente, con 17 cifras significativas se necesitaron 16 términos para detener el ciclo.
 ##Pregunta 2: En cada fila, ¿ es mayor o menor que ? ¿Por qué conviene detenerse con ?
