@@ -5,10 +5,10 @@
 
 | | |
 |---|---|
-| Equipo | |
-| Integrantes (nombre, matrícula y licenciatura) | |
+| Equipo | Morado |
+| Integrantes | Wendy Sismai Jimenez Mejia - 2233000794 - Ingenieria Ambiental <br> Jonathan Alexander Alvarado Alcocer - 2233040654 -  Ingenieria Mecanica |
 | Repositorio de la Tarea 1 de | |
-| Fecha | |
+| Fecha | 12 de Octubre de 2026 |
 
 ## 1. Octave y Python
 
