@@ -6,7 +6,7 @@
 | | |
 |---|---|
 | Equipo | Morado |
-| Integrantes | Wendy Sismai Jimenez Mejia - 2233000794 - Ingenieria Ambiental <br> Jonathan Alexander Alvarado Alcocer - 2233040654 -  Ingenieria Mecanica |
+| Integrantes | Wendy Sismai Jiménez Mejía - 2233000794 - Ingeniería Ambiental <br> Jonathan Alexander Alvarado Alcocer - 2233040654 -  Ingeniería Mecánica |
 | Repositorio de la Tarea 1 de | |
 | Fecha | 12 de Octubre de 2026 |
 
